@@ -1,0 +1,20 @@
+
+use_frameworks!
+
+target 'CocoaReactiveDemo' do
+
+
+
+pod 'ReactiveCocoa'
+
+
+
+
+end
+
+
+
+
+
+
+
